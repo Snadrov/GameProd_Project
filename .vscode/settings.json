@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "Project Unity.sln"
+    "dotnet.defaultSolution": "GameProduction Project.slnx"
 }
