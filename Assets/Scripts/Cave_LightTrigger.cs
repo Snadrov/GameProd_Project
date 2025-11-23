@@ -15,6 +15,7 @@ public class Cave_LightTrigger : MonoBehaviour
     void Start()
     {
         meshRenderer.enabled = false; 
+        pointLight.intensity = 0f; 
     }
 
     void Update()
