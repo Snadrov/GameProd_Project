@@ -1,5 +1,6 @@
+using UnityEditor.Timeline;
 using UnityEngine;
-using UnityEngine.Experimental.GlobalIllumination;
+using UnityEngine.Playables;
 
 public class Cave_LightTrigger : MonoBehaviour
 {
@@ -10,12 +11,13 @@ public class Cave_LightTrigger : MonoBehaviour
 
     [SerializeField] Light pointLight;
     [SerializeField] MeshRenderer meshRenderer;
-    [SerializeField] AudioSource audioSource;
+    [SerializeField] PlayableDirector playableDirector; 
 
     void Start()
     {
         meshRenderer.enabled = false; 
         pointLight.intensity = 0f; 
+        playableDirector.enabled = false; 
     }
 
     void Update()
@@ -32,7 +34,7 @@ public class Cave_LightTrigger : MonoBehaviour
         {
             meshRenderer.enabled = true; 
             increaseIntesity = true; 
-            audioSource.enabled = true; 
+            playableDirector.enabled = true; 
         }
     }
 }
