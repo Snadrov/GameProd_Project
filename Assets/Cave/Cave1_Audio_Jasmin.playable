@@ -22,7 +22,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
-  m_Name: MasterTimeline
+  m_Name: Cave1_Audio_Jasmin
   m_EditorClassIdentifier: 
   m_Version: 0
   m_Tracks:
@@ -43,7 +43,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 21bf7f712d84d26478ebe6a299f21738, type: 3}
-  m_Name: Activation Track
+  m_Name: Cave1 Audio Jasmin
   m_EditorClassIdentifier: 
   m_Version: 3
   m_AnimClip: {fileID: 0}
@@ -55,7 +55,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 2.216666666666667
+    m_Start: 1.75
     m_ClipIn: 0
     m_Asset: {fileID: -6740222574047455206}
     m_Duration: 327.26666666666665
