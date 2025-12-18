@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 735e6d3d7da6bbc4a8e9cbbf6723602b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97905
+  packageName: Mountain Terrain, Rocks and Tree
+  packageVersion: 3.0
+  assetPath: Assets/Forest/Materials/tree_01/bark_01.mat
+  uploadId: 658244
