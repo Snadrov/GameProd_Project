@@ -1,8 +1,10 @@
 ﻿<Solution>
+  <Project Path="Unity.Timeline.csproj" />
   <Project Path="Unity.ShaderGraph.Editor.csproj" />
   <Project Path="Unity.RenderPipelines.GPUDriven.Runtime.csproj" />
   <Project Path="JBooth.MicroSplat.Core.Editor.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.Runtime.csproj" />
+  <Project Path="Unity.Timeline.Editor.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Runtime.csproj" />
   <Project Path="Unity.Mathematics.csproj" />
   <Project Path="Unity.Multiplayer.Center.Editor.csproj" />
