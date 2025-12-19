@@ -8,17 +8,17 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: seaside_rock_diff_4k
-    second: {fileID: 2800000, guid: aa5185d94c789484fb568d629d1963d0, type: 3}
+    second: {fileID: 2800000, guid: 7def0a7b7a6d2dc44818f782ab5d7878, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: seaside_rock_nor_gl_4k
-    second: {fileID: 2800000, guid: 92ef0c4aa1e04d34db8facc8095d6893, type: 3}
+    second: {fileID: 2800000, guid: 6ddde7f5a27dcf24bbc7714e3213834f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: seaside_rock_rough_4k
-    second: {fileID: 2800000, guid: 30a9597c4e9b4aa4c8ed64c459230995, type: 3}
+    second: {fileID: 2800000, guid: b05fde2033d95704f8a9fd95d0e860be, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
